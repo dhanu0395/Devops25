@@ -1,1 +1,1 @@
-Original line message from conflict file
+Conflicting change in master
