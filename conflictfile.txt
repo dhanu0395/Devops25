@@ -1,2 +1,0 @@
-Conflicting change in master
-Changed in feature branch
